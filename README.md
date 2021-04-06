@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Hazel.
-<h3 align="center">Solution Architect @ Red Hat Taiwan</h3>
+<h3 align="center">One of co-worker @ ⛅Cloud-Native Taiwan User Group⛅ !</h3>
 
-- 🔭 I’m currently working on **Cloud Native Taiwan User Group**
+- 🔭 I’m currently Solution Architect @ **Red Hat Taiwan**
 
 - 📝 I regularly write articles on [hazel.style](hazel.style)
 
