@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Hazel.
-<h3 align="center">One of co-worker @ ⛅Cloud-Native Taiwan User Group⛅ !</h3>
 
-- 🔭 I’m currently Solution Architect @ **Red Hat Taiwan**
+- 🔭 I’m currently a happy SRE Engineer @ **Somewhere out there**
 
 - 📝 I regularly write articles on [hazel.style](hazel.style)
 
