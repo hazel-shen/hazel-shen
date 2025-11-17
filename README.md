@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Hazel.
 
-- 🔭 I’m currently a happy DevOps Engineer @ **Somewhere out there**
+- 🔭 I’m currently a happy DevOps Engineer @ **Somewhere out there**, this is [About ME](https://www.hazelshen.me/).
 
 - 📝 I regularly write articles on [hazel.style](https://hazel.style)
 
